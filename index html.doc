@@ -1,0 +1,11 @@
+<!DOCTYPE html>文档类型声明
+<html>表示html文档的开始
+<head>表示文档元数据的开始
+<title>我的第一个html页面</title>
+
+</head>表示文档元数据的结束
+
+<body>表示文档内容的开始
+
+</body>表示文档内容的结束
+</html>表示html文档的结束
